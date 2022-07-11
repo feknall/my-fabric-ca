@@ -1,4 +1,1 @@
-*
-!docker-compose-old.yml
-!docker-compose.yaml
-!configtx.yaml
+fabric-ca-server
