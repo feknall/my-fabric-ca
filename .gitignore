@@ -1,2 +1,4 @@
 *
-docker-compose-old.yml
+!docker-compose-old.yml
+!docker-compose.yaml
+!configtx.yaml
